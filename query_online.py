@@ -18,7 +18,7 @@ ap = argparse.ArgumentParser()
 # ap.add_argument("-result", required = False,default='lace',
 # 	help = "Path for output retrieved images")
 # 总数据
-ap.add_argument("-index", required = False,default='heihei.h5',
+ap.add_argument("-index", required = False,default='lol.h5',
 	help = "Path to index")
 ap.add_argument("-result", required = False,default='img',
 	help = "Path for output retrieved images")
