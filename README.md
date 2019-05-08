@@ -8,7 +8,7 @@
 
 首发于公众号：AI算法与图像处理
 
-[公众号](https://github.com/DWCTOD/flask-keras-cnn-image-retrieval-master/blob/master/img/qrcode_for_gh_cf77d20d7eb8_430.jpg)
+![公众号](https://github.com/DWCTOD/flask-keras-cnn-image-retrieval-master/blob/master/img/qrcode_for_gh_cf77d20d7eb8_430.jpg)
 
 ## 环境
 
@@ -66,5 +66,5 @@ python3 query_online.py
 
 （3）我对参数输入也进行了修改，将模型名字和图片库的路径都固定了，这样子测试的时候比较方便，大家在使用的时候请注意下，如果修改了名字要对应起来。
 
-[代码](https://github.com/DWCTOD/flask-keras-cnn-image-retrieval-master/blob/master/img/%E6%B7%B1%E5%BA%A6%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20190508214737.png)
+![代码](https://github.com/DWCTOD/flask-keras-cnn-image-retrieval-master/blob/master/img/%E6%B7%B1%E5%BA%A6%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20190508214737.png)
 
