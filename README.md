@@ -4,7 +4,7 @@
 
 详细讲解、操作截图和视频演示
 
-[以图搜图展示](https://mp.weixin.qq.com/cgi-bin/appmsg?t=media/appmsg_edit&action=edit&type=10&appmsgid=100001082&token=1449037126&lang=zh_CN)
+[以图搜图展示](https://mp.weixin.qq.com/s?__biz=MzU4NTY4Mzg1Mw==&mid=2247484752&idx=1&sn=063168237aab0d4fba2c0ae426be2e4a&chksm=fd8783b2caf00aa4bffcfc9f4730bdf2b3c5a4f1d3fdee91115cdd3fc23709a3ac70f1d9c876&token=403649858&lang=zh_CN#rd)
 
 首发于公众号：AI算法与图像处理
 
