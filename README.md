@@ -69,3 +69,4 @@ python3 query_online.py
 
 ![代码](https://github.com/DWCTOD/flask-keras-cnn-image-retrieval-master/blob/master/img/%E6%B7%B1%E5%BA%A6%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20190508214737.png)
 
+备注：对于第一次使用的小伙伴，请保持心态良好，一开始要下载VGG16的预训练模型，可能等待时间比较久，此时可以考虑泡一杯coffee，如果下载速度慢是由于国内镜像源的问题，可以自行百度如何切换“源”，当然也可以找其他人上传的模型链接例如： https://github.com/fchollet/deep-learning-models/releases
