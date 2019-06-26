@@ -1,5 +1,6 @@
 # Image Retrieval Engine Based on Keras
 
+基于内容的图像检索（ Content-Based Image Retrieval ，CBIR）
 ## 演示
 
 详细讲解、操作截图和视频演示
